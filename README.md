@@ -1,4 +1,5 @@
-'VBA-challenge
+'Received help from Bethany my tutor, Angel TA, Deborah and robert from AskBCS'
+VBA-challenge
 'Module 2 
 
 Sub ticker_stock()
