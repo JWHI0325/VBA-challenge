@@ -1,4 +1,21 @@
 'Received help from Bethany my tutor, Angel TA, Deborah and robert from AskBCS'
+'got the following help from them
+Robert: 
+For Each ws in Worksheets
+ 'setting values
+ ws.Cells()
+ Next
+End Sub
+
+Deborah: 
+helped me figure out how to get the max function of my code. 
+
+and i used https://stackoverflow.com/questions/76548427/stock-ticker-analysis
+
+Bethany help set my variables  at the beginning of my code 
+Angel helped me figure out how to properly write my code so that it would actually loop. By fixing my TickerRow from Ticker  and moving my open_price to the beginning of my loop. 
+
+
 VBA-challenge
 'Module 2 
 
